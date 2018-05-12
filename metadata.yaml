@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/483
     wikipedia: http://en.wikipedia.org/wiki/James_Fenimore_Cooper
 description: Appears to be an abridged translation of Cooper's "The Pioneers".
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19176#Kuvauksia-mets-el-m-st--sivistyksen---rimm-isell--rajallaeli-Natty-Bumpon-el-m-nvaiheet
 gutenberg_issued: '2006-09-04'
 gutenberg_type: Text
 identifiers:
